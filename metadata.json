@@ -1,0 +1,6 @@
+{
+  "name": "MaxRaqam — This is just the beginning (;",
+  "description": "MaxRaqam — chiroyli telefon raqamlar va Telegram username savdosi (MaxUser), MaxCoin valyutasi hamda MaxGram chat tizimini birlashtirgan rasmiy raqamli platforma.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
